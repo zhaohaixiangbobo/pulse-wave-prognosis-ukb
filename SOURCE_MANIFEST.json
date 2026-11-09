@@ -1,0 +1,142 @@
+[
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/cooperation_features.py",
+    "release": "src/cooperation_features.py",
+    "source_sha256": "55b232a64f7539cc226b457f7474e473822d85b17d5b5f8bbe4441e25ec9e994",
+    "release_sha256": "55b232a64f7539cc226b457f7474e473822d85b17d5b5f8bbe4441e25ec9e994",
+    "adapted": false
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/cooperation_model.py",
+    "release": "src/cooperation_model.py",
+    "source_sha256": "555ebe7afb9607ffa676e6bfa14ad3c13ac30aa2b36cede20847d3702b55161c",
+    "release_sha256": "555ebe7afb9607ffa676e6bfa14ad3c13ac30aa2b36cede20847d3702b55161c",
+    "adapted": false
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/exact_data.py",
+    "release": "src/exact_data.py",
+    "source_sha256": "6ca6f2fb4d2efe781049ad7792d31847e1f68a41be4e3a30aa376fe6d375b0b9",
+    "release_sha256": "e9c65568a9cc27b6bef367cf842991470edd4540a68df6e4308e9152bb65d908",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/landmark_followup.py",
+    "release": "src/landmark_followup.py",
+    "source_sha256": "31dcf8c0188cf64de1583d4f47624956e921e46bf9aa9ab5b6a0fbf3274a68b9",
+    "release_sha256": "42b00ef29a2120d2b8f12be4a506af9ec721d2011716abc9638c9e6ed92b7e7f",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/p4205_advanced_features.py",
+    "release": "src/p4205_advanced_features.py",
+    "source_sha256": "013af815cdd195e2010609edd2251334f6d0950c0e1293b83601aba403c515d5",
+    "release_sha256": "268e95875e4443aea61068cfbc7bc68fb3e1a70fd2f83f02c90455b0e6095d61",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/p4205_feature_policy.py",
+    "release": "src/p4205_feature_policy.py",
+    "source_sha256": "0dd950406610b8dd7193ab252f643c53cdf1891c8708956208585571e5215d8d",
+    "release_sha256": "0dd950406610b8dd7193ab252f643c53cdf1891c8708956208585571e5215d8d",
+    "adapted": false
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/pulse_wave_features.py",
+    "release": "src/pulse_wave_features.py",
+    "source_sha256": "4d2a4d4f61a95090877ed8e7626646310254ec902d169fd48a83cd13962e0e16",
+    "release_sha256": "a5e62738d23256807b4b4ab0dd14d51934475b928616333da5e1e8cba35fe5dc",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/regularization_control.py",
+    "release": "src/regularization_control.py",
+    "source_sha256": "2f0b8593c9ce0cba599d6b84484f271ed0d18bebc318bb1e2eacd83f2cd983bb",
+    "release_sha256": "ba6ee3365f9f7bae88fa506b7b3a92bdb47dc242541864865b27d8875fb97ad9",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/sagm_cvd_endpoints.py",
+    "release": "src/sagm_cvd_endpoints.py",
+    "source_sha256": "d18500210ae7defd472e5f070386df3a0c0a104114316de092666accc6d3036c",
+    "release_sha256": "edf241d53b76d2ba8eafe82aad4ea7db8c5183d1dac227b7889b36d76488222f",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/sagm_followup_analysis.py",
+    "release": "src/sagm_followup_analysis.py",
+    "source_sha256": "338bf8a1b6d25f24ca57486116ea0df8cc8ed2461666f76854c087543c01eba1",
+    "release_sha256": "338bf8a1b6d25f24ca57486116ea0df8cc8ed2461666f76854c087543c01eba1",
+    "adapted": false
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/sagm_torch_model.py",
+    "release": "src/sagm_torch_model.py",
+    "source_sha256": "36f931bdf20cfa9f920887a7949d5aedf3e1f0abf1ded3d84e6cc5561e876e88",
+    "release_sha256": "d024a230b9c6c14ebcd4a7370981a4c44f164f780af5509e94159d53ff052159",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/train_sagm_net.py",
+    "release": "src/train_sagm_net.py",
+    "source_sha256": "1b1471a6b33825cbe69d1e84e01d968684bf44a9a34300611bf314a45c1b3c42",
+    "release_sha256": "1b1471a6b33825cbe69d1e84e01d968684bf44a9a34300611bf314a45c1b3c42",
+    "adapted": false
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/train_structured_comparison_baselines.py",
+    "release": "src/train_structured_comparison_baselines.py",
+    "source_sha256": "330bcf27b45c742e45ab89b66461b5fe7d008860af9c3a842a605d323788e03f",
+    "release_sha256": "7ac3f19167ca5acbacc469ecfe28fa610c5f72ec3d05cbef1499edb5d038cfae",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/train_two_tower_classification.py",
+    "release": "src/train_two_tower_classification.py",
+    "source_sha256": "4b39bda0c6e92768772cda26ccc0d1d749f56ee4780957e4373579e9a3c7b9ba",
+    "release_sha256": "55305075880ed9f7c3718faa83ea956acfe85447d11f0cf1d1b29cde341587a2",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/training_diagnostics.py",
+    "release": "src/training_diagnostics.py",
+    "source_sha256": "c64a62ea4332cdd2129907cfb9bec477711551bb971341189858a197c9759bb0",
+    "release_sha256": "e17ea0eccb2c84e40fce1fead471011e86c077667657103df934ed89ad4a65ea",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/tree_diagnostics.py",
+    "release": "src/tree_diagnostics.py",
+    "source_sha256": "689d4df5d522b2cf09fc6c65b1684a7b83cf85a04a014b5e9dd5985ea039aeac",
+    "release_sha256": "5ed6e75f2a01525374c383d324ff05f8a4938b18371893468e69f32831c2c6cd",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/two_tower_torch_classifier.py",
+    "release": "src/two_tower_torch_classifier.py",
+    "source_sha256": "d9ac6840907de3d9ea35aa044b3c8810289c7d90b6cee12b1a67176b0a1f8f16",
+    "release_sha256": "989535ca8b39cbc416193611aa7026743b243ff287ce606f9ef5c7cb271a33be",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/code/two_tower_torch_model.py",
+    "release": "src/two_tower_torch_model.py",
+    "source_sha256": "2754d01818a73aa6f0fa2f760e771ae6ce95d29c33f162adf0f1967e60315d37",
+    "release_sha256": "d96d25bad04ad187afd2359c44445f2bba8cbca63580f64f5c3e76ae3af51ed8",
+    "adapted": true
+  },
+  {
+    "source": "revision_experiments_20261024/training_regularization_20261107/main_v2/n9/n9_control.py",
+    "release": "src/n9_control.py",
+    "source_sha256": "445798f852d0ad1425173101c53d334d91fe803be141d0795766fe19560a960e",
+    "release_sha256": "445798f852d0ad1425173101c53d334d91fe803be141d0795766fe19560a960e",
+    "adapted": false
+  },
+  {
+    "source": "revision_experiments_20261024/exact_date_v2_cached/code/exact_labels.py",
+    "release": "src/exact_labels.py",
+    "source_sha256": "01a4ad8de878c419104aff76c5565b10d5b1231a23a74c68ab8e3bce4c3f0725",
+    "release_sha256": "07b97f5c82c8d1c917c5c540e21b2152b6d3fa7613a5b4f47d449d7d55ba70fd",
+    "adapted": true
+  }
+]

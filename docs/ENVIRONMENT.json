@@ -1,0 +1,17 @@
+{
+  "scope": "Packaging smoke-check environment; not an assertion that every historical experiment used identical versions",
+  "python": "3.12",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "torch": "2.9.1+cu126",
+    "matplotlib": "3.10.8",
+    "xgboost": "3.2.0",
+    "lightgbm": "4.6.0",
+    "joblib": "1.5.3",
+    "openpyxl": "3.1.5"
+  },
+  "wave_percentile_mode": "numpy_2_4_1 compatibility path explicitly selected by run_main.py"
+}
